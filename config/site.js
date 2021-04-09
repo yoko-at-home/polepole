@@ -12,7 +12,7 @@ module.exports = {
   ],
   description: "ポレポーレは、座間市で活動する女性合唱団です。",
   author: "ポレポーレ",
-  trackingId: "",
+  trackingId: "UA-119418003-5",
   defaultLang: "ja",
   langTextMap: {
     ja: "日本語",
