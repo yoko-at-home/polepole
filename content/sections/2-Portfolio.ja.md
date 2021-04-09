@@ -1,55 +1,31 @@
 ---
-anchor: "ポートフォリオ"
-header: "ポートフォリオ"
-subheader: "あなたは偶然断然その持通り"
+anchor: "作品"
+header: "作品"
+subheader: "ポレポーレが練習している作品"
 portfolios: [
   {
     imageFileName: "portfolio/01-thumbnail.jpg",
     imageFileNameDetail: "portfolio/01-full.jpg",
-    header: "Threads",
-    subheader: "イラストレーション",
-    content: "あなたは偶然断然その持通りについて事のためにまかり出ですた。もう元来を説明心はとうとうこのお話しないななどでいて行くたでは滅亡しましでて、再びにはなったうないです。受売へ折っだっのはもし今をもうないないない。",
-    extraInfo: ["日付： January 2017", "クライエント: Threads", "カテゴリ: Illustration"]
+    header: "いつの日か",
+    subheader: "女性合唱のための童謡メドレー",
+    content: "源田俊一郎作曲",
+    extraInfo: ["日付： January 2017", "カテゴリ: 動揺"]
   },
   {
-    imageFileName: "portfolio/02-thumbnail.jpg",
-    imageFileNameDetail: "portfolio/02-full.jpg",
-    header: "Explorer",
-    subheader: "グラフデザイン",
-    content: "あなたは偶然断然その持通りについて事のためにまかり出ですた。もう元来を説明心はとうとうこのお話しないななどでいて行くたでは滅亡しましでて、再びにはなったうないです。受売へ折っだっのはもし今をもうないないない。",
-    extraInfo: ["日付： January 2017", "クライエント: Explorer", "カテゴリ: Graphic Design"]
+    imageFileName: "portfolio/yokatta-thumb.jpg",
+    imageFileNameDetail: "portfolio/yokatta.jpg",
+    header: "よかったなあ",
+    subheader: "女性合唱組曲",
+    content: "まど・みちお作詞",
+    extraInfo: ["日付： January 2017", "クライエント: Explorer", "カテゴリ: ？"]
   },
   {
-    imageFileName: "portfolio/03-thumbnail.jpg",
-    imageFileNameDetail: "portfolio/03-full.jpg",
-    header: "Finish",
-    subheader: "アイデンティティ",
-    content: "あなたは偶然断然その持通りについて事のためにまかり出ですた。もう元来を説明心はとうとうこのお話しないななどでいて行くたでは滅亡しましでて、再びにはなったうないです。受売へ折っだっのはもし今をもうないないない。",
+    imageFileName: "portfolio/sound-of-music-thumb.jpg",
+    imageFileNameDetail: "portfolio/sound-of-music.jpg",
+    header: "サウンドオブミュージック",
+    subheader: "arranged by Junko Yokoyama✨",
+    content: "メドレー",
     extraInfo: ["日付： January 2017", "クライエント: Finish", "カテゴリ: Identity"]
-  },
-  {
-    imageFileName: "portfolio/04-thumbnail.jpg",
-    imageFileNameDetail: "portfolio/04-full.jpg",
-    header: "Lines",
-    subheader: "ブランディング",
-    content: "あなたは偶然断然その持通りについて事のためにまかり出ですた。もう元来を説明心はとうとうこのお話しないななどでいて行くたでは滅亡しましでて、再びにはなったうないです。受売へ折っだっのはもし今をもうないないない。",
-    extraInfo: ["日付： January 2017", "クライエント: Lines", "カテゴリ: Branding"]
-  },
-  {
-    imageFileName: "portfolio/05-thumbnail.jpg",
-    imageFileNameDetail: "portfolio/05-full.jpg",
-    header: "Southwest",
-    subheader: "ウェブサイトデザイン",
-    content: "あなたは偶然断然その持通りについて事のためにまかり出ですた。もう元来を説明心はとうとうこのお話しないななどでいて行くたでは滅亡しましでて、再びにはなったうないです。受売へ折っだっのはもし今をもうないないない。",
-    extraInfo: ["日付： January 2017", "クライエント: Southwest", "カテゴリ: Website Design"]
-  },
-  {
-    imageFileName: "portfolio/06-thumbnail.jpg",
-    imageFileNameDetail: "portfolio/06-full.jpg",
-    header: "Window",
-    subheader: "フォトショップ",
-    content: "あなたは偶然断然その持通りについて事のためにまかり出ですた。もう元来を説明心はとうとうこのお話しないななどでいて行くたでは滅亡しましでて、再びにはなったうないです。受売へ折っだっのはもし今をもうないないない。",
-    extraInfo: ["日付： January 2017", "クライエント: Window", "カテゴリ: Photography"]
   }
 ]
 ---

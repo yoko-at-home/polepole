@@ -1,11 +1,11 @@
 ---
-copyright: "Copyright © Start Bootstrap 2020"
+copyright: "Copyright © Pole Pole"
 social: {
   twitter: "#",
   facebook: "#",
   medium: "#"
 }
-privacyText: "プライバシー"
+privacyText: ""
 privacyHref: "#!"
 termsText: "利用規約"
 termsHref: "#!"

@@ -1,31 +1,25 @@
 ---
-anchor: "沿革"
-header: "沿革"
-subheader: "あなたは偶然断然その持通りについて事のためにまかり出ですた。"
+anchor: "あゆみ"
+header: "あゆみ"
+subheader: "女性合唱団「虹」は、Pole Poleとして生まれ変わりました。"
 timeline: [
   {
     imageFileName: "history/1.jpg",
-    header: "2009年-2011年",
-    subheader: "Our Humble Beginnings",
-    content: "あなたは偶然断然その持通りについて事のためにまかり出ですた。もう元来を説明心はとうとうこのお話しないななどでいて行くたでは滅亡しましでて、再びにはなったうないです。"
+    header: "2020年7月1日",
+    subheader: "ポレポーレ設立",
+    content: "✨"
   },
   {
     imageFileName: "history/2.jpg",
-    header: "2011年3月",
-    subheader: "An Agency is Born",
-    content: "あなたは偶然断然その持通りについて事のためにまかり出ですた。もう元来を説明心はとうとうこのお話しないななどでいて行くたでは滅亡しましでて、再びにはなったうないです。"
+    header: "2021年5月",
+    subheader: "座間市公民館祭り",
+    content: "演奏曲："
   },
   {
     imageFileName: "history/3.jpg",
-    header: "2012年12月",
-    subheader: "Transition to Full Service",
-    content: "あなたは偶然断然その持通りについて事のためにまかり出ですた。もう元来を説明心はとうとうこのお話しないななどでいて行くたでは滅亡しましでて、再びにはなったうないです。"
-  },
-  {
-    imageFileName: "history/4.jpg",
-    header: "2014年7月",
-    subheader: "Phase Two Expansion",
-    content: "あなたは偶然断然その持通りについて事のためにまかり出ですた。もう元来を説明心はとうとうこのお話しないななどでいて行くたでは滅亡しましでて、再びにはなったうないです。"
+    header: "2021年9月",
+    subheader: "第一回コンサート",
+    content: "演奏曲："
   },
   {
     imageContent: "Be Part\r\nOf Our\r\nStory!"

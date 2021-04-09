@@ -1,37 +1,61 @@
 ---
-anchor: "チーム"
-header: "チーム"
-subheader: "あなたは偶然断然その持通りについて事のためにまかり出ですた。"
-content: "あなたは偶然断然その持通りについて事のためにまかり出ですた。もう元来を説明心はとうとうこのお話しないななどでいて行くたでは滅亡しましでて、再びにはなったうないです。"
+anchor: "メンバー"
+header: "メンバー"
+subheader: "Pole Pole"
+content: "Pole Pole"
 teamMember: [
   {
-    imageFileName: "team/1.jpg",
-    header: "Kay Garland",
-    subheader: "Lead Designer",
+    imageFileName: "team/hoshino.jpg",
+    header: "Atsuko Hoshino",
+    subheader: "指揮者",
     social: {
       twitter: "#",
       facebook: "#",
-      linkedin: "#"
     }
   },
   {
-    imageFileName: "team/2.jpg",
-    header: "Larry Parker",
-    subheader: "Lead Marketer",
+    imageFileName: "team/takamiya.jpg",
+    header: "Hiroko Takamiya",
+    subheader: "ソプラノ 会長",
     social: {
       twitter: "#",
       facebook: "#",
-      medium: "#"
     }
   },
   {
-    imageFileName: "team/3.jpg",
-    header: "Diana Pertersen",
-    subheader: "Lead Developer",
+    imageFileName: "team/shima.jpg",
+    header: "Miyuki Shimanouchi",
+    subheader: "ソプラノ 事務局員",
     social: {
       twitter: "#",
       facebook: "#",
-      medium: "#"
+    }
+  },
+  {
+    imageFileName: "team/watanabe.jpg",
+    header: "Kyouko Watanabe",
+    subheader: "ソプラノ 第一回コンサート会計",
+    social: {
+      twitter: "#",
+      facebook: "#",
+    }
+  },
+  {
+    imageFileName: "team/asano.jpg",
+    header: "Hitomi Asano",
+    subheader: "メゾ・ソプラノ 第一回コンサートチケット管理",
+    social: {
+      twitter: "#",
+      facebook: "#",
+    }
+  },
+  {
+    imageFileName: "team/kato.jpg",
+    header: "Jyunko Kato",
+    subheader: "あると 第一回コンサート看板作成",
+    social: {
+      twitter: "#",
+      facebook: "#",
     }
   },
 ]
