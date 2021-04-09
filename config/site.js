@@ -1,5 +1,5 @@
 module.exports = {
-  title: "はじめまして、ポレポーレです"",
+  title: "はじめまして、ポレポーレです",
   keywords: [
     "gatsby",
     "gatsbyjs",
