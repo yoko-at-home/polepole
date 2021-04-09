@@ -14,6 +14,7 @@
       font-style: italic;
       line-height: 22px;
       margin-bottom: 25px;
+      text-shadow: #f14f0f 2px 2px 0px, #d1d093 4px 4px 0px;
       @include serif-font;
     }
     .intro-heading {
@@ -21,6 +22,7 @@
       font-weight: 700;
       line-height: 50px;
       margin-bottom: 25px;
+      text-shadow: #f14f0f 2px 2px 0px, #d1d093 4px 4px 0px;
       @include heading-font;
     }
   }
