@@ -1,5 +1,5 @@
 module.exports = {
-  title: "Gatsyby Startbootstrap Agency",
+  title: "はじめまして、ポレポーレです"",
   keywords: [
     "gatsby",
     "gatsbyjs",
@@ -10,9 +10,9 @@ module.exports = {
     "bootstrap",
     "startbootstrap-agency",
   ],
-  description: "gatsby version of startbootstrap-agency with i18n support.",
-  author: "thundermiracle",
-  trackingId: "UA-119418003-5",
+  description: "ポレポーレは、座間市で活動する女性合唱団です。",
+  author: "ポレポーレ",
+  trackingId: "",
   defaultLang: "ja",
   langTextMap: {
     ja: "日本語",
