@@ -146,13 +146,7 @@ const IndexPage = ({ data, pageContext: { langKey, defaultLang, langTextMap } })
         })
       }
       <Footer frontmatter={footerNode.frontmatter} />
-      <MouseParticles
-        g={1}
-        color="random"
-        radius={10}
-        cull="MuiSvgIcon-root,MuiButton-root"
-        level={10}
-      />
+      <MouseParticles g={1} color="random" radius={10} cull="body" level={10} />
     </>
   );
 };
