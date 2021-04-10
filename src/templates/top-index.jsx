@@ -14,6 +14,7 @@ import breakDownAllNodes from "utils/breakDownAllNodes";
 import fileNameToSectionName from "utils/fileNameToSectionName";
 
 import "../style/main.scss";
+import MouseParticles from "react-mouse-particles";
 
 /**
  * get file name list from content/sections folder
@@ -145,6 +146,13 @@ const IndexPage = ({ data, pageContext: { langKey, defaultLang, langTextMap } })
         })
       }
       <Footer frontmatter={footerNode.frontmatter} />
+      <MouseParticles
+        g={1}
+        color="random"
+        radius={10}
+        cull="MuiSvgIcon-root,MuiButton-root"
+        level={10}
+      />
     </>
   );
 };
