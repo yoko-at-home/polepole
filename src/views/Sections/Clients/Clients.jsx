@@ -5,6 +5,7 @@ import clsx from "clsx";
 import { Row, Col } from "react-bootstrap";
 import PageSection from "components/PageSection";
 import Client from "components/Client";
+import TOS from "./TOS";
 
 const Clients = ({ className, frontmatter }) => {
   if (!frontmatter) {
@@ -14,6 +15,7 @@ const Clients = ({ className, frontmatter }) => {
   const { anchor, clients } = frontmatter;
 
   return (
+    <>
     <PageSection className={clsx("py-5", className)} id={anchor}>
       <Row>
         {clients.map(({ href, imageFileName }) => (
@@ -22,7 +24,9 @@ const Clients = ({ className, frontmatter }) => {
           </Col>
         ))}
       </Row>
-    </PageSection>
+      </PageSection>
+      <TOS/>
+      </>
   );
 };
 
