@@ -1,12 +1,12 @@
 ---
 copyright: "Copyright © Pole Pole"
 social: {
-  twitter: "#",
-  facebook: "#",
-  medium: "#"
+  # twitter: "#",
+  # facebook: "#",
+  # medium: "#"
 }
 privacyText: ""
 privacyHref: "#!"
-termsText: "利用規約"
+termsText: ""
 termsHref: "#!"
 ---
