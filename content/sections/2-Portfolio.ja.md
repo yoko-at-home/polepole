@@ -22,7 +22,7 @@ portfolios: [
   {
     imageFileName: "portfolio/sound-of-music-thumb.jpg",
     imageFileNameDetail: "portfolio/sound-of-music.jpg",
-    header: "サウンドオブミュージック",
+    header: "サウンドオブミュージック メドレー",
     subheader: "Arranged by Junko Yokoyama✨",
     content: "メドレー",
     extraInfo: ["日付： January 2017", "クライエント: Finish", "カテゴリ: Identity"]
