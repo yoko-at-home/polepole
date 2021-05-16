@@ -26,7 +26,6 @@ const TimelineItem = ({
         {imageContent || (
           <Image
             className="rounded-circle img-fluid"
-            style={{ borderRadius: "50%" }}
             fileName={imageFileName}
             alt={imageAlt || header || subheader}
           />
