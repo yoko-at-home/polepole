@@ -57,7 +57,7 @@ const MyNavbar = ({ anchors, frontmatter, extraItems }) => {
               <NavItem key={anchor} to={anchor} onClick={closeMenu} />
             ))}
           </Nav>
-          {extraItems}
+          {/* {extraItems} */}
         </Navbar.Collapse>
       </Container>
     </Navbar>
