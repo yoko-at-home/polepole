@@ -14,7 +14,7 @@ teamMember: [
     }
   },
   {
-    imageFileName: "team/3.jpg",
+    imageFileName: "team/sato.jpg",
     header: "Tomoko Sato",
     subheader: "ピアニスト",
     social: {
@@ -84,6 +84,13 @@ teamMember: [
     imageFileName: "team/namatame.jpg",
     header: "Mieko Namatame",
     subheader: "メゾ・ソプラノ 1st コンサートチケット管理",
+    social: {
+    }
+  },
+  {
+    imageFileName: "team/kaoru.jpg",
+    header: "Kaoru Yamada",
+    subheader: "メゾ・ソプラノ 1st コンサート控え室管理",
     social: {
     }
   },
