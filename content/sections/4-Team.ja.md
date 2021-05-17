@@ -60,9 +60,9 @@ teamMember: [
     }
   },
   {
-    imageFileName: "team/1.jpg",
+    imageFileName: "team/akiko-goto.jpg",
     header: "Akiko Goto",
-    subheader: "ソプラノ 1st 舞台関係担当",
+    subheader: "メゾソプラノ 1st 舞台関係担当",
     social: {
     }
   },
@@ -76,13 +76,13 @@ teamMember: [
   {
     imageFileName: "team/ozaki.jpg",
     header: "Masako Ozaki",
-    subheader: "メゾ・ソプラノ 1st コンサートチケット管理",
+    subheader: "ソプラノ 1st コンサートチケット管理",
     social: {
     }
   },
   {
-    imageFileName: "team/ikutame.jpg",
-    header: "Mieko Ikutame",
+    imageFileName: "team/namatame.jpg",
+    header: "Mieko Namatame",
     subheader: "メゾ・ソプラノ 1st コンサートチケット管理",
     social: {
     }
