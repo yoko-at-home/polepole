@@ -22,7 +22,7 @@ const TeamMember = ({
   return (
     <div className="team-member">
       <Image
-        className="mx-auto circle rounded-circle"
+        className="mx-auto circle"
         fileName={imageFileName}
         alt={imageAlt || header || subheader}
       />

@@ -60,7 +60,7 @@ teamMember: [
     }
   },
   {
-    imageFileName: "team/2.jpg",
+    imageFileName: "team/1.jpg",
     header: "Akiko Goto",
     subheader: "ソプラノ 1st 舞台関係担当",
     social: {
