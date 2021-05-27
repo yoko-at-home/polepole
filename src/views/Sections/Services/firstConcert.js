@@ -6,7 +6,7 @@ const FirstConcert = () => {
   return (
     <Container>
       <h1 style={{ marginTop: "6rem" }}>第一回演奏会のご案内</h1>
-      <div style={{ margin: "5rem" }}>
+      <div style={{ marginTop: "5rem", marginBottom: "5rem" }}>
         <iframe
           title="ポレポーレ第一回演奏会ご案内"
           width="100%"
