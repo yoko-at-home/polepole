@@ -13,7 +13,7 @@ timeline: [
     imageFileName: "history/2.jpg",
     header: "2021年5月",
     subheader: "座間市公民館祭り",
-    content: "演奏曲："
+    content: "コロナの影響により中止になりました.."
   },
   {
     imageFileName: "history/3.jpg",
