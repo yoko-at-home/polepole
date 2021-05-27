@@ -1,7 +1,7 @@
 ---
 anchor: "あゆみ"
 header: "あゆみ"
-subheader: "女性合唱団「虹」は、ポレポーレとして生まれ変わりました。"
+subheader: "女声合唱団「虹」は、ポレポーレとして生まれ変わりました。"
 timeline: [
   {
     imageFileName: "history/1.jpg",

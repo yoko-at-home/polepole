@@ -6,6 +6,7 @@ import { Row, Col } from "react-bootstrap";
 import ServiceItem from "components/ServiceItem";
 import SectionHeader from "components/SectionHeader";
 import PageSection from "components/PageSection";
+import FirstConcert from "./firstConcert";
 
 const Services = ({ className, frontmatter }) => {
   if (!frontmatter) {
@@ -15,18 +16,21 @@ const Services = ({ className, frontmatter }) => {
   const { anchor, header: rootHeader, subheader: rootSubHeader, services } = frontmatter;
 
   return (
-    <PageSection className={className} id={anchor}>
-      <Row>
-        <SectionHeader header={rootHeader} subheader={rootSubHeader} />
-      </Row>
-      <Row className="text-center">
-        {services.map((service) => (
-          <Col md={4} key={service.header}>
-            <ServiceItem {...service} />
-          </Col>
-        ))}
-      </Row>
-    </PageSection>
+    <>
+      <FirstConcert />
+      <PageSection className={className} id={anchor}>
+        <Row>
+          <SectionHeader header={rootHeader} subheader={rootSubHeader} />
+        </Row>
+        <Row className="text-center">
+          {services.map((service) => (
+            <Col md={4} key={service.header}>
+              <ServiceItem {...service} />
+            </Col>
+          ))}
+        </Row>
+      </PageSection>
+    </>
   );
 };
 

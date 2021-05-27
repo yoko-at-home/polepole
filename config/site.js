@@ -10,7 +10,7 @@ module.exports = {
     "bootstrap",
     "startbootstrap-agency",
   ],
-  description: "ポレポーレは、座間市で活動する女性合唱団です。",
+  description: "ポレポーレは、座間市で活動する女声合唱団です。",
   author: "ポレポーレ",
   trackingId: "UA-119418003-5",
   defaultLang: "ja",

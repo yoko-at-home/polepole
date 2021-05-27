@@ -1,7 +1,7 @@
 ---
 anchor: "取り組み"
 header: "取り組み"
-subheader: "ポレポーレは次のような活動に取り組んでいます"
+subheader: "Polepoleとはスワヒリ語で、ゆっくりのんびりという意味です。ポレポーレは、互いに信頼し合いながら、ゆっくりのんびり、次のような活動に取り組んでいます"
 services: [
   {
     iconName: "ShoppingCartIcon",
