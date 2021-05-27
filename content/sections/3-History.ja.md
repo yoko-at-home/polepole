@@ -1,13 +1,13 @@
 ---
 anchor: "あゆみ"
 header: "あゆみ"
-subheader: "女声合唱団「虹」は、ポレポーレとして生まれ変わりました。"
+subheader: "✨"
 timeline: [
   {
     imageFileName: "history/1.jpg",
     header: "2020年7月1日",
-    subheader: "ポレポーレ設立",
-    content: "✨"
+    subheader: "ポレポーレ誕生",
+    content: "🐈"
   },
   {
     imageFileName: "history/2.jpg",
@@ -19,7 +19,7 @@ timeline: [
     imageFileName: "history/3.jpg",
     header: "2021年9月",
     subheader: "第一回コンサート",
-    content: "演奏曲："
+    content: "演奏曲：よかったなぁ・いつの日か・サウンドオブミュージックメドレー他"
   },
   {
     imageContent: "Be Part\r\nOf Our\r\nStory!"

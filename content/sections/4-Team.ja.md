@@ -1,6 +1,6 @@
 ---
 anchor: "メンバー"
-header: "メンバー"
+header: "慈しみ深きポレポーレのメンバー"
 subheader: "Pole Pole"
 content: "Pole Pole"
 teamMember: [
