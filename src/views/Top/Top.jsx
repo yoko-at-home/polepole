@@ -1,9 +1,22 @@
 import React from "react";
 import PropTypes from "prop-types";
+import { Fireworks } from "fireworks-js/dist/react";
 
 import { Button } from "react-bootstrap";
 import useSmoothScrollTo from "hooks/useSmoothScrollTo";
 import ImageCard from "components/ImageCard";
+
+const options = {
+  speed: 3,
+};
+
+const style = {
+  left: "45%",
+  top: 0,
+  width: "100%",
+  height: "100%",
+  background: "rgba(12, 12, 58, 0.0)",
+};
 
 const Top = ({ frontmatter }) => {
   if (!frontmatter) {
@@ -24,12 +37,17 @@ const Top = ({ frontmatter }) => {
   }
 
   return (
-    <ImageCard
-      imageFileName={imageFileName}
-      header={header}
-      subheader={subheader}
-      extraInfo={extraInfoPart}
-    />
+    <div style={{ position: "relative" }}>
+      <ImageCard
+        imageFileName={imageFileName}
+        header={header}
+        subheader={subheader}
+        extraInfo={extraInfoPart}
+      />
+      <div style={{ position: "absolute", top: "10%", left: "45%" }}>
+        <Fireworks options={options} style={style} />
+      </div>
+    </div>
   );
 };
 
