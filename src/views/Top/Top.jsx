@@ -11,8 +11,8 @@ const options = {
 };
 
 const style = {
-  left: "45%",
-  top: 0,
+  // left: "45%",
+  // top: 0,
   width: "100%",
   height: "100%",
   background: "rgba(12, 12, 58, 0.0)",
@@ -44,7 +44,13 @@ const Top = ({ frontmatter }) => {
         subheader={subheader}
         extraInfo={extraInfoPart}
       />
-      <div style={{ position: "absolute", top: "10%", left: "45%" }}>
+      <div style={{ position: "absolute", top: "10%", left: "5%" }}>
+        <Fireworks options={options} style={style} />
+      </div>
+      <div style={{ position: "absolute", top: "55%", left: "5%" }}>
+        <Fireworks options={options} style={style} />
+      </div>
+      <div style={{ position: "absolute", top: "55%", right: "5%" }}>
         <Fireworks options={options} style={style} />
       </div>
     </div>
