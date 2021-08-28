@@ -1,7 +1,7 @@
 ---
 anchor: "お問い合わせ"
 header: "連絡方法"
-subheader: "ただいま、連絡方法については検討中です。"
-telephone: 03-0000-0001
-email: contact@yourwebsite.com
+subheader: "代表・高宮までお問い合わせください。"
+telephone:  046-254-4929
+# email: contact@yourwebsite.com
 ---
