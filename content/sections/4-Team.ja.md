@@ -9,8 +9,8 @@ teamMember: [
     header: "Atsuko Hoshino",
     subheader: "指揮者",
     social: {
-      twitter: "#",
-      facebook: "#",
+      # twitter: "#",
+      # facebook: "#",
     }
   },
   {
@@ -18,8 +18,8 @@ teamMember: [
     header: "Tomoko Sato",
     subheader: "ピアニスト",
     social: {
-      twitter: "#",
-      facebook: "#",
+      # twitter: "#",
+      # facebook: "#",
     }
   },
   {
