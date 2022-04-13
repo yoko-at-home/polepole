@@ -4,28 +4,28 @@ header: "作品"
 subheader: "ポレポーレが練習している作品"
 portfolios: [
   {
-    imageFileName: "portfolio/01-thumbnail.jpg",
-    imageFileNameDetail: "portfolio/01-full.jpg",
-    header: "いつの日か",
-    subheader: "女声合唱のための童謡メドレー",
-    content: "源田俊一郎作曲",
-    extraInfo: ["日付： January 2017", "カテゴリ: 動揺"]
+    imageFileName: "portfolio/01-thumbnail.webp",
+    imageFileNameDetail: "portfolio/01-full.webp",
+    header: "三つの不思議な仕事",
+    subheader: "女声合唱曲集",
+    content: "池澤夏樹作詞・池辺晋一郎曲",
+    extraInfo: ["「空みがき」、「明日つくり」、「夢売り」"]
   },
   {
-    imageFileName: "portfolio/yokatta-thumb.jpg",
-    imageFileNameDetail: "portfolio/yokatta.jpg",
-    header: "よかったなあ",
-    subheader: "女声合唱組曲",
-    content: "まど・みちお作詞",
-    extraInfo: ["日付： January 2017", "クライエント: Explorer", "カテゴリ: ？"]
+    imageFileName: "portfolio/02-thumnail.webp",
+    imageFileNameDetail: "portfolio/02-full.webp",
+    header: "ここ・いま・春",
+    subheader: "女声合唱アルバム",
+    content: "工藤直子作詞・相澤直人作曲",
+    extraInfo: ["「なんとなく・青空」、「はな」、「ここ・いま・春」、「夕焼け」"]
   },
   {
-    imageFileName: "portfolio/sound-of-music-thumb.jpg",
-    imageFileNameDetail: "portfolio/sound-of-music.jpg",
-    header: "サウンドオブミュージック メドレー",
+    imageFileName: "portfolio/03-thumbnail.webp",
+    imageFileNameDetail: "portfolio/03-full.webp",
+    header: "青春歌年鑑",
     subheader: "Arranged by Junko Yokoyama✨",
     content: "メドレー",
-    extraInfo: ["日付： January 2017", "クライエント: Finish", "カテゴリ: Identity"]
+    extraInfo: ["「在る日突然」、「恋の季節」、「ヴァケイション」、「ブルー・ライト・ヨコハマ」、「夜明けのスキャット」"]
   }
 ]
 ---

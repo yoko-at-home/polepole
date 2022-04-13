@@ -6,7 +6,7 @@ services: [
   {
     iconName: "ShoppingCartIcon",
     header: "合唱練習",
-    content: "現在、2021年9月の定期演奏会に向けて練習しています。"
+    content: "現在、2023年9月の定期演奏会に向けて練習しています。"
   },
   {
     iconName: "LaptopIcon",
